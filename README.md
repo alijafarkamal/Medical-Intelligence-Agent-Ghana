@@ -1,6 +1,7 @@
-# Medical Intelligence Agent Ghana- (Team - MedDesert AI) - 1st Place @MIT Hack-Nation Global AI Hackathon - Databricks Track
+# MedDesert AI
+### 🏆 1st Place — MIT Hack-Nation Global AI Hackathon (Databricks Track)
 
-**Hack Nation: Bridging Medical Deserts** | Databricks Track
+**Hack Nation: Bridging Medical Deserts**
 
 An Intelligent Document Parsing (IDP) agent that extracts, verifies, and reasons over medical facility data from Ghana to identify medical deserts and infrastructure gaps.
 
