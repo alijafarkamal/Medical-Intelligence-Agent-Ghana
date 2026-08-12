@@ -1,4 +1,4 @@
-# Medical Intelligence Agent
+# Medical Intelligence Agent Ghana- (Team - MedDesert AI) - 1st Place @MIT Hack-Nation Global AI Hackathon - Databricks Track
 
 **Hack Nation: Bridging Medical Deserts** | Databricks Track
 
